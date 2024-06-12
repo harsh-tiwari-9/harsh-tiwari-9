@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harsh-tiwari-9
+- 👋 Hi, I’m Harsh Tiwari
 - 👀 I’m currently working as SDE @ JIO Platforms 
 - 🌱 I’m currently learning React
 - 📫 How to reach me : harsh.tiwari.5411@gmail.com  
